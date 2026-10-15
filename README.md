@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-trobi.wtf-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trobi.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Trobi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aangeraakt)
-[![Email](https://img.shields.io/badge/Email%40hello@trobi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trobi.dev)
+[![Email](https://img.shields.io/badge/Email-%40hello@trobi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trobi.dev)
 
 </div>
 
