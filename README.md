@@ -15,13 +15,13 @@
 ## 🧭 About me
 
 I build tools, games and mods, and I enjoy digging into how things work under the hood.
-Currently focused on **[your current focus]**. Always open to interesting collaborations.
+Currently focused on **Expanding my portfolio**. Always open to interesting collaborations.
 
-- 🔭 Currently working on: **[project name]**
-- 🌱 Currently learning: **[topic]**
-- 🤝 Looking for help with: **[topic or "nothing right now"]**
-- 💬 Ask me about: **[topics you know well]**
-- ⚡ Fun fact: **[something memorable]**
+- 🔭 Currently working on: **DI4W**
+- 🌱 Currently learning: **Go**
+- 🤝 Looking for help with: **Nothing right now**
+- 💬 Ask me about: **Discord bots**
+- ⚡ Fun fact: **I am very young but talented**
 
 ---
 
