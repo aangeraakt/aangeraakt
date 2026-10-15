@@ -4,9 +4,9 @@
 
 ### Developer · Tinkerer · Builder of small useful things
 
-[![Website](https://img.shields.io/badge/Website-your--site.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-you%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Website](https://img.shields.io/badge/Website-your--site.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trobi.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aangeraakt)
+[![Email](https://img.shields.io/badge/Email-you%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@trobi.dev)
 
 </div>
 
